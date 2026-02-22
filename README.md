@@ -2,6 +2,9 @@
 
 A Streamlit app that simulates the Iterated Prisoner’s Dilemma (IPD) using classic strategies, round-robin tournaments, and an evolutionary mode to visualize how strategy populations change over time.
 
+## Live Demo
+https://evolutionary-game-theory-simulator.onrender.com
+
 ## Features
 - **Single Match:** Run one strategy vs another and view score progression + move history
 - **Tournament Mode:** Round-robin tournament across all strategies with a leaderboard + plot
@@ -66,3 +69,4 @@ Export tournament results to CSV
 
 Add tests + CI
 ```
+
